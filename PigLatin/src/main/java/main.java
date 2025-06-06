@@ -5,7 +5,9 @@ public class main {
     }
 
     public static String pigIt(String str) {
-//assertEquals("igPay atinlay siay oolcay", PigLatin.pigIt("Pig latin is cool"));
+
+        //Link: https://www.codewars.com/kata/520b9d2ad5c005041100000f/java
+
         if (str.isEmpty()) {
             System.exit(0);
         }
