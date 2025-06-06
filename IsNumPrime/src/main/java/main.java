@@ -1,10 +1,12 @@
 public class main {
+
+    //Link: https://www.codewars.com/kata/5262119038c0985a5b00029f/java
+
     public static void main(String[] args) {
         System.out.println(isPrime(3));
     }
 
     public static boolean isPrime(int num) {
-
         if (num <= 1) {
             return false;
         }
